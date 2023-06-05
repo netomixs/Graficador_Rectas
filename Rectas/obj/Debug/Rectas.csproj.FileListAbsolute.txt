@@ -1,0 +1,11 @@
+C:\Users\netom\source\repos\Rectas\Rectas\bin\Debug\Rectas.exe.config
+C:\Users\netom\source\repos\Rectas\Rectas\bin\Debug\Rectas.exe
+C:\Users\netom\source\repos\Rectas\Rectas\bin\Debug\Rectas.pdb
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.csproj.AssemblyReference.cache
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.csproj.SuggestedBindingRedirects.cache
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.Form1.resources
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.Properties.Resources.resources
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.csproj.GenerateResource.cache
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.csproj.CoreCompileInputs.cache
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.exe
+C:\Users\netom\source\repos\Rectas\Rectas\obj\Debug\Rectas.pdb
